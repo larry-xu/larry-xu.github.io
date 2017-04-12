@@ -1,3 +1,3 @@
 # Personal website
 
-[www.larryxu.com](http://www.larryxu.com)
+[www.larryxu.com](https://www.larryxu.com)

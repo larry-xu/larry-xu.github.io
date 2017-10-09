@@ -6,15 +6,17 @@ permalink: /blog/
 
 <h1>{{ page.title }} 📝</h1>
 
-<h3 class="mb-4"><small class="text-muted">New posts every sometimes</small></h3>
+<h3 class="mb-4"><small class="text-muted">It's small right now, but maybe one day it will grow</small></h3>
 
 <ul class="list-unstyled">
 {% for post in site.posts %}
   <li class="mb-3">
     {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-    <small class="post-meta text-muted">{{ post.date | date: date_format }}</small>
+    <span class="post-meta text-muted">{{ post.date | date: date_format }}</span>
     <br/>
-    <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+    <h5><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h5>
+    <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }} <a href="{{ post.url | relative_url }}">Read more...</a></p>
+    <hr/>
   </li>
 {% endfor %}
 </ul>

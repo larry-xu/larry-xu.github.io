@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Pursuing undergraduate++ research"
-date:   2017-10-09
+title:  "Pursuing (under)graduate research"
+date:   2017-10-10
 permalink: /blog/pursuing-undergraduate-research/
 excerpt_separator: <!--more-->
 ---
 
-This past May I completed my final year at UC Berkeley after graduating with a B.S./M.S. in Computer Science, thus marking the end of my 2.5 year career as an academic student researcher. Encouraged by my research advisors, I’d like to share my own personal experiences, and hopefully inspire others to consider research or learn a little more about what makes research at Berkeley great!<!--more--> Concretely, this post summarizes how and why I got started doing research as an undergraduate, gives a detailed account of my experiences and learnings, tries to provide advice to those interested in pursuing a similar path, and includes additional insights about graduate school.
+This past May I completed my final year at UC Berkeley after graduating with a B.S./M.S. in Computer Science, thus marking the end of my 2.5 year career as an academic student researcher. Encouraged by my research advisors, I’d like to share my own personal experiences, and hopefully inspire others to consider research or learn a little more about what makes research at Berkeley great!<!--more--> This post summarizes how and why I got started doing research as an undergraduate, gives a detailed account of my experiences and learnings, tries to provide advice to those interested in pursuing a similar path, and includes additional remarks regarding graduate school.
 
-_Disclaimer: I try to illustrate what computer science research at Berkeley is like based on my own experiences and observations. Each student’s experience is unique; however, I do try to be as general as possible when giving advice and note special circumstances wherever they may be._
+_Disclaimer: I try to illustrate what computer science research at Berkeley is like based on my own experiences and observations. Each student’s experience is unique; however, I try to be as general as possible when giving advice and note special circumstances wherever they may be._
 
 ### Motivations
 
@@ -48,9 +48,9 @@ There were many times during meetings where I felt it was hard to keep up with t
 
 ### Useful Skills
 
-The research I have completed largely focused on data visualization, which touches on concepts from database systems, human-computer interaction, and cognitive science. I had some prior experience using databases and designing interactive web interfaces, which was helpful both in terms of motivation and skill set. I think the work complemented my background as someone who had a lot of practical experience with UI/UX and strong academic interest in systems. In this section, I describe useful skills that I learned __specifically__ in the context of visualization research, and which may or may not be useful for other research fields.
+The research I have completed largely focused on data visualization, which touches on concepts from database systems, human-computer interaction, and cognitive science. I had some prior experience using databases and designing interactive web interfaces, which was helpful both in terms of motivation and skill set. I think the work complemented my background as someone who had a lot of practical experience with UI/UX and strong academic interest in systems. In this section, I describe useful skills that I learned __specifically in the context of visualization research__, and which may or may not be useful for other research fields.
 
-Since I was working on data visualization, it was very helpful that I had a lot of front-end programming experience to lean on.  As an undergrad researcher, I mostly fulfilled a programmer role in building visualizations and setting up online experiments. I think programming is a good way to get started with computer science research and meaningfully contribute very quickly, since most projects will require some amount of programming. But while having programming experience is useful, I do believe that it can also be made up for with enough time and ability to learn quickly. Having enough time to commit to research is in some ways more crucial than experience. In fact, younger students can be great researchers because they generally have few competing commitments and many semesters left to do research. Some professors may not even consider accepting an undergrad without at least a year's worth of commitment. Overall, the most common failure modes I see when undergrads try to get involved in research is a combination of lack of research experience, programming experience, and time commitment. I think starting to do research around second or third year of undergrad is the optimal point for experience and time, but there are also a lot of other personal factors that might affect this.
+Since I was working on data visualization, it was very helpful that I had a lot of front-end programming experience to lean on.  As an undergrad researcher, I mostly fulfilled a programmer role in building visualizations and setting up online experiments. I think programming is a good way to get started with computer science research and meaningfully contribute very quickly, since most projects will require some amount of programming. But while having programming experience is useful, I do believe that it can also be made up for with enough time and ability to learn quickly. Having enough time to commit to research is in some ways more crucial than experience. In fact, younger students can be great researchers because they generally have few competing commitments and many semesters left to do research. Some professors may not even consider accepting an undergrad without at least a year's worth of commitment. Overall, the most common failure modes I see when undergrads try to get involved in research is a combination of lack of research experience, programming experience, and time commitment. __I think starting to do research around second or third year of undergrad is the optimal point for experience and time__, but there are also a lot of other personal factors that might affect this.
 
 I originally thought I would need to take more computer science classes before I was ready to understand the technical concepts needed for research. For example, I hadn’t taken any database or HCI courses when I got started. But it turns out that I was able to comprehend the papers decently well, and was able to look things up as necessary without much trouble. Even after I had taken the relevant courses, I found that I used only a little knowledge from those courses in my research projects and only really for contextual and motivational reasons. There is a lot more specific knowledge involved with research that isn’t covered by the breadth of an undergraduate curriculum, though this can vary depending on subject matter.
 
@@ -68,7 +68,7 @@ For reference, here is my own record of all the research paper submissions I con
 
 <table class="table table-bordered">
   <tr class="table-active">
-    <td colspan="3"><strong>Graphical Perception</strong> - secondary contributor</td>
+    <td colspan="3"><strong>Graphical Perception</strong></td>
   </tr>
   <tr>
     <td>CHI 2016</td>
@@ -76,7 +76,7 @@ For reference, here is my own record of all the research paper submissions I con
     <td>❌ rejected</td>
   </tr>
   <tr class="table-active">
-    <td colspan="3"><strong>Data Tweening</strong> - secondary contributor</td>
+    <td colspan="3"><strong>Data Tweening</strong></td>
   </tr>
   <tr>
     <td>SIGMOD 2016</td>
@@ -89,7 +89,7 @@ For reference, here is my own record of all the research paper submissions I con
     <td>✅ accepted</td>
   </tr>
   <tr class="table-active">
-    <td colspan="3"><strong>Asynchronous Interactive Visualization</strong> - primary contributor</td>
+    <td colspan="3"><strong>Asynchronous Interactive Visualization</strong></td>
   </tr>
   <tr>
     <td>InfoVis 2017</td>
@@ -118,3 +118,7 @@ By the end of my third year of undergrad, I finished my degree requirements and 
 Thankfully I had a lot of research experience by that point and Joe agreed to be my graduate advisor, so getting into the program was a fairly painless matter. It ended up being a hectic school year and a ton of work, but ultimately very intellectually rewarding in the end. As an undergrad, I spent maybe 10-15 hours per week on research during a semester. But as a grad student I would literally spend hours every day including weekends doing research, if not spend most of my waking hours at least thinking about research problems. This is sort of the norm as a grad student. Despite the extra responsibilities, requirements, and busyness, in many ways it felt more rewarding than being an undergraduate researcher because it opened up a lot of new opportunities. I had more control over my research agenda, was well-funded with dedicated office space, and was part of the [RISELab](https://rise.cs.berkeley.edu/) community along with Joe’s other grad students. I attended several memorable research talks, gave some not so memorable ones of my own, and spoke with industry folks interested in our research. I was a teacher and mentor while still being a student myself, read more papers than I had ever done previously before, and published my own [40-page thesis](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-97.pdf) about a topic I became obsessed with.
 
 In the end, I'm glad I decided to pursue the 5th Yr M.S. at Berkeley, despite losing all the free time I would have had otherwise. It gave me the chance to engage deeply with research and play a much larger role than in my previous projects. At the end of it, I'm confident that I have the skills and expertise to lead and conduct my own research ideas. And even beyond research or academia, the skills I learned (e.g. critical thinking, design, communication) will certainly be beneficial in the future. Part of me wishes that I had more time to devote to it, another year perhaps, but the 5-6 year PhD track is too long for my tastes. Maybe I'll reconsider sometime later in life and find myself back in school. Otherwise, I believe the experience has helped me understand how to approach and think about difficult problems. And even now after graduating I'll continue trying to keep up-to-date with new research papers that interest me since I still want to feel connected to the academic research community.
+
+---
+
+_Special thanks to Joe Hellerstein and Eugene Wu for providing feedback on earlier drafts of this post, and for overall being incredible mentors._

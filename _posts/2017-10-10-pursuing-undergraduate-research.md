@@ -10,7 +10,10 @@ This past May I completed my final year at UC Berkeley after graduating with a B
 
 _Disclaimer: I try to illustrate what computer science research at Berkeley is like based on my own experiences and observations. Each student’s experience is unique; however, I try to be as general as possible when giving advice and note special circumstances wherever they may be._
 
+<br/>
+
 ### Motivations
+---
 
 When I was an undergraduate student, I wanted to get involved with research for multiple reasons. It seemed like there were many interesting and difficult challenges in computer science, and I wanted to gain a deeper understanding of a specific area. I thought it would be exciting to work on problems that haven’t been solved before, and make attempts at solving those problems through experimentation. And a great aspect about computer science research specifically is that those solutions can end up influencing the real world in a short amount of time. Having witnessed many previous research successes come out of Berkeley, I saw a very good opportunity to make meaningful contributions to research projects I thought were important.
 
@@ -22,7 +25,10 @@ Note that there is little explicit reward to doing undergraduate research. You a
 
 Most of these thoughts about research started bubbling in my mind during my second year at Berkeley, as a consequence of me finishing all my lower division course requirements. I wanted something to focus on during the time I had left in school, but I wasn’t sure what I wanted to do. I felt that research was potentially something worthwhile to pursue, so I decided to give it my best effort to find a research position during that year.
 
+<br/>
+
 ### Getting Started
+---
 
 Finding an undergraduate research position is actually less daunting than it seems. There are literally hundreds of graduate students, postdocs, and professors in the Berkeley EECS community working on all kinds of research projects. Many of these projects are very welcoming to motivated undergrads, but few are actively seeking them out because the process of filling a position can be time consuming and professors are busy people. Thus as an undergrad, the trick is to be proactive about finding a research project even if they aren’t being advertised. While resources like [URAP](http://urap.berkeley.edu/) and [Beehive](http://beehive.berkeley.edu/) are very useful for finding projects, another effective method is to __just ask people__. Concretely, this means looking up interesting projects and professors, and cold emailing them to ask if there are any opportunities for an interested student with no research experience. This is exactly how I went about it, and I was able to get a successful response from the first person I asked.
 
@@ -34,7 +40,10 @@ Reading a few papers about a specific research topic is a good strategy for gaug
 
 However, after reading some papers there may be a point when you’re not feeling particularly interested in the topic. It’s best to be straightforward about this with your professor and continue searching for a different research project to work on. There is no shame in doing this, and it’s beneficial for both sides for you to be personally interested in the research. I’m not sure I personally would have had the courage to say I’m not interested in a project after trying really hard to get a position, but it’s always good to explore other options and the researcher will most likely not be offended. As someone who later tried to help recruit undergrads for a research project, it was important to find students who were both qualified __and__ genuinely interested in working on the problems at hand.
 
+<br/>
+
 ### Learning and Feedback
+---
 
 During my first semester attempting research, it was helpful that Eugene was very accessible as a mentor. We would have regular one-on-one meetings on a weekly basis, and he gave me access to his workspace in the AMPLab where I could freely ask him questions or get feedback about the project. This was especially important as an undergrad without any real experience with research, since getting feedback and guidance regularly helped me understand things quicker and perform better.
 
@@ -46,7 +55,10 @@ I also realized that weekly research meetings can be key motivators, but they ca
 
 There were many times during meetings where I felt it was hard to keep up with the pace of discussion and I would become lost, especially when the topics would get very abstract. During such times I wasn't able to contribute as much as I wanted to, and was afraid to interrupt with questions in fear of feeling really dumb and disrupting the flow of conversation. I think this can be a difficult hurdle to overcome for many people, as it was for me at least. I think the best way to avoid these situations is to ground the discussion in something concrete. I felt most confident in meetings where I had actual experiment results to share or a new implementation idea to show off. It’s also helpful to schedule more one-on-one meetings rather than large group meetings, since it becomes easier to ask questions and have a succinct conversation and less likely to go off on tangents or highly abstract discussions.
 
+<br/>
+
 ### Useful Skills
+---
 
 The research I have completed largely focused on data visualization, which touches on concepts from database systems, human-computer interaction, and cognitive science. I had some prior experience using databases and designing interactive web interfaces, which was helpful both in terms of motivation and skill set. I think the work complemented my background as someone who had a lot of practical experience with UI/UX and strong academic interest in systems. In this section, I describe useful skills that I learned __specifically in the context of visualization research__, and which may or may not be useful for other research fields.
 
@@ -60,7 +72,10 @@ Another skill I picked up that was specific to my research area was learning how
 
 On a more general note, strong writing and editing skills are remarkably useful when it comes time to finally publish your work. The best research papers are concise, clear, and well-motivated; but it took me some time to realize a more subtle tip for academic writing: know your audience. It is important to tailor the writing towards the academic community that you’re trying to publish to. When submitting a paper to a peer-reviewed conference venue, properly contextualizing the results of your work for the reader can have a substantive effect on how your submission may be perceived. For example, in our asynchronous interactive visualization project, we would wrestle with questions of whether to approach our arguments from a systems perspective or an HCI perspective. Ultimately, this ends up mattering more than you might think and the proper framing can mean the difference between acceptance and rejection. Writing ends up taking an enormous amount of time and is the most dreadful part of the research process in my opinion, but if you are good at writing and enjoy it then that can be a huge advantage.
 
+<br/>
+
 ### Academic Success
+---
 
 The typical metric of success for a researcher is the amount of published work you've authored as well as the magnitude of the contributions for each publication. Generally being listed as first author on a paper signals that you were the primary contributor and lead of the project. If brought onto a project as an undergrad, you’ll typically be second or third author. Attaining a first author publication as an undergrad is a huge mark of success that is rarely accomplished. It requires leading an entire research project including forming the idea, designing/prototyping, and managing the work to completion. Academic success matters a lot if you want to go to grad school, but otherwise only counts for bragging rights. I didn’t really understand the significance of this authorship signaling until I became a grad student, where it suddenly became more important.
 
@@ -111,13 +126,18 @@ I was lucky enough to attend a conference for one of my projects, which is actua
 
 Though with regards to actually submitting papers, it often felt like we were heavily rushing towards the nearest conference paper deadline. Originally I thought the conference paper is something you prepared only after completing the research, and that the writing would take substantial time. It turns out a lot of the writing happens at the last minute, because things end up taking longer than expected and deadlines are always looming. I never liked this constant grind towards paper deadlines which seems to be a pervasive behavior among research projects. I recall this happening during the asynchronous interactive visualization project when we were rushing to meet the EuroVis 2017 paper deadline. We were really time-crunched and ran last-minute experiments days before the deadline hoping that the results would look good. Instead, we missed the deadline and it took us three more months to get in good shape for an actual submission to a different conference. It is much easier when a conference has a rolling deadline like VLDB which accepts submissions every month, since there isn't as much pressure to finish by a specific date. However this tends to be less common among the research venues I've submitted to.
 
+<br/>
+
 ### Grad School
+---
 
 By the end of my third year of undergrad, I finished my degree requirements and decided that I liked research enough to pursue a Master’s degree. So instead of having a relaxing senior year of undergrad, I somehow decided that completing the [5th Yr M.S. program](https://eecs.berkeley.edu/academics/graduate/industry-programs/5yrms) would be a good idea. I convinced myself of this since (__i__) I would finish school at the same time as my other friends, (__ii__) I was interested in taking graduate courses, (__iii__) the graduate program cost the same amount of money as undergrad, and in fact ended up being cheaper since I was covered under a GSI/GSR position throughout the year, (__iv__) I wanted to continue doing research, but not to the extent of time that completing a PhD would require, and (__v__) I didn't want to start working a full-time job just yet.
 
 Thankfully I had a lot of research experience by that point and Joe agreed to be my graduate advisor, so getting into the program was a fairly painless matter. It ended up being a hectic school year and a ton of work, but ultimately very intellectually rewarding in the end. As an undergrad, I spent maybe 10-15 hours per week on research during a semester. But as a grad student I would literally spend hours every day including weekends doing research, if not spend most of my waking hours at least thinking about research problems. This is sort of the norm as a grad student. Despite the extra responsibilities, requirements, and busyness, in many ways it felt more rewarding than being an undergraduate researcher because it opened up a lot of new opportunities. I had more control over my research agenda, was well-funded with dedicated office space, and was part of the [RISELab](https://rise.cs.berkeley.edu/) community along with Joe’s other grad students. I attended several memorable research talks, gave some not so memorable ones of my own, and spoke with industry folks interested in our research. I was a teacher and mentor while still being a student myself, read more papers than I had ever done previously before, and published my own [40-page thesis](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-97.pdf) about a topic I became obsessed with.
 
 In the end, I'm glad I decided to pursue the 5th Yr M.S. at Berkeley, despite losing all the free time I would have had otherwise. It gave me the chance to engage deeply with research and play a much larger role than in my previous projects. At the end of it, I'm confident that I have the skills and expertise to lead and conduct my own research ideas. And even beyond research or academia, the skills I learned (e.g. critical thinking, design, communication) will certainly be beneficial in the future. Part of me wishes that I had more time to devote to it, another year perhaps, but the 5-6 year PhD track is too long for my tastes. Maybe I'll reconsider sometime later in life and find myself back in school. Otherwise, I believe the experience has helped me understand how to approach and think about difficult problems. And even now after graduating I'll continue trying to keep up-to-date with new research papers that interest me since I still want to feel connected to the academic research community.
+
+<br/>
 
 ---
 

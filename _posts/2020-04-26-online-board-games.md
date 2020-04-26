@@ -73,7 +73,7 @@ __Cost:__ Free
 
 __[https://netgames.io/](https://netgames.io/)__
 
-This website has several online versions of popular social deduction/hidden role games like Avalon, Secret Hitler, One Night Ultimate Werewolf, and Spyfall. I’m a big fan of social deduction games, so was excited to find a bunch of popular ones here. I’ve only tried Secret Hitler on this site, and have found it pretty easy to setup a game and play. There are some minor UI flaws that can make it a bit confusing for beginner players, so just make sure everyone knows how to play with a practice round. Overall, I definitely recommend this site though if you like these sorts of games.
+This website has several online versions of popular social deduction/hidden role games like Avalon, Secret Hitler, One Night Ultimate Werewolf, and Spyfall. I’m a big fan of social deduction games, so was excited to find a bunch of popular ones here. I’ve only tried Secret Hitler on this site, and have found it pretty easy to set up a game and play. There are some minor UI flaws that can make it a bit confusing for beginner players, so just make sure everyone knows how to play with a practice round. Overall, I definitely recommend this site though if you like these sorts of games.
 
 __Players:__ varies by game, but usually you want 5+ players
 <br/>
@@ -113,7 +113,7 @@ __Cost:__ Only the host needs to purchase the game, and other players can freely
 
 __[https://www.playpseudonyms.com/](https://www.playpseudonyms.com/)__
 
-Pseudonyms is an online version of Monikers made by my friend Kevin Zhang! It’s a party game also known as Fishbowl that combines aspects of Taboo and Charades. Players can join using their phones, but should also have a video chat setup with some space for the Charades round. It’s a really fun party game, and actually translates surprisingly well over online video chat. This is a good game for those looking for something more fast-paced and creative. Note that the recommended age rating for Monikers is 17+ due to the suggestive card content as pictured above.
+Pseudonyms is an online version of Monikers made by my friend Kevin Zhang! It’s a party game also known as Fishbowl that combines aspects of Taboo and Charades. Players can join using their phones, but should also have a video chat set up with some space for the Charades round. It’s a really fun party game, and actually translates surprisingly well over online video chat. This is a good game for those looking for something more fast-paced and creative. Note that the recommended age rating for Monikers is 17+ due to the suggestive nature of some of the cards.
 
 __Players:__ 4+
 <br/>
@@ -168,7 +168,7 @@ __Cost:__ Depends how much you’re willing to bet I guess
 ## Platforms
 ---
 
-This section does not list individual games, but rather game platforms that provide the ability to play almost any board game online. While they provide a lot of flexibility, they also come at the cost of being more difficult to use and setup compared to the other games on this list. These platforms are recommended for the more dedicated board game group looking to play some of their favorite games or try out new games.
+This section does not list individual games, but rather game platforms that provide the ability to play almost any board game online. While they provide a lot of flexibility, they also come at the cost of being more difficult to use and set up compared to the other games on this list. These platforms are recommended for the more dedicated board game group looking to play some of their favorite games or try out new games.
 
 <br id="tabletop-simulator"/>
 <br/>
@@ -231,7 +231,7 @@ This section describes standalone online versions of some board games that I lik
 
 __[https://dominion.games/](https://dominion.games/)__
 
-Dominion Online is the official online version of Dominion playable in your web browser. It’s a great deck-building game that has become a regular staple among my group of friends. We usually play multiple games a week, as they are very quick and easy to setup and play. The designers did a great job here translating the game to an online version. The card tracking and available action/buy tracking makes this game even easier to play than the physical version.
+Dominion Online is the official online version of Dominion playable in your web browser. It’s a great deck-building game that has become a regular staple among my group of friends. We usually play multiple games a week, as they are very quick and easy to set up and play. The designers did a great job here translating the game to an online version. The card tracking and available action/buy tracking makes this game even easier to play than the physical version.
 
 __Players:__ 2-6
 <br/>
